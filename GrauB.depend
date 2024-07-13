@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1720887168 source:c:\users\cassi\onedrive\documentos\desafios_unisinos\processamento gráfico\graub\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<stb_image.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<filesystem>
+	"Sprite.h"
+	"SpriteChar.h"
+
+1720653037 c:\users\cassi\onedrive\documentos\desafios_unisinos\processamento gráfico\graub\headers\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1720886068 source:c:\users\cassi\onedrive\documentos\desafios_unisinos\processamento gráfico\graub\sprite.cpp
+	"Sprite.h"
+
+1720885934 c:\users\cassi\onedrive\documentos\desafios_unisinos\processamento gráfico\graub\sprite.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1720887117 source:c:\users\cassi\onedrive\documentos\desafios_unisinos\processamento gráfico\graub\spritechar.cpp
+	"SpriteChar.h"
+
+1720887102 c:\users\cassi\onedrive\documentos\desafios_unisinos\processamento gráfico\graub\spritechar.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
